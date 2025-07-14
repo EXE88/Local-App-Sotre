@@ -28,4 +28,4 @@ if there is a special icon for your file just put icon in "downloadable_icon" fo
 
 for uploading files go to this url --> http://IP:PORT/upload
 
-for changeling admin password just edit .env file 
+for changeing admin password just edit .env file 
