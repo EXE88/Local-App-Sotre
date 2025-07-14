@@ -16,7 +16,7 @@ mkdir downloadable_icon
 
 <br><h2>How To Use ?</h2>
 
-or listing app for download put your files in "downloadable" folder
+for listing app for download put your files in "downloadable" folder
 
 if there is a special icon for your file just put icon in "downloadable_icon" folder with name of the app that icon is for 
 
