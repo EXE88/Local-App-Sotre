@@ -14,6 +14,12 @@ mkdir downloadable
 mkdir downloadable_icon
 ```
 
+<p>3. run project</p>
+
+```
+python3 app.py
+```
+
 <br><h2>How To Use ?</h2>
 
 for listing app for download put your files in "downloadable" folder
