@@ -29,3 +29,7 @@ if there is a special icon for your file just put icon in "downloadable_icon" fo
 for uploading files go to this url --> http://IP:PORT/upload
 
 for changeing admin password just edit .env file 
+
+**if .env didnt work just use default (mystrongpassword) password**
+
+**if you want to change host and port just edit last lines in app.py**
